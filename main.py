@@ -27,7 +27,7 @@ def separate_information_into_dictionary(file_name):
     for line in information_list:
         # Create an item in the dictionary.
         barcode_number = line[0:10]  # The barcode numebr will be the first 10 values of the string.
-        product_information = line[10:-2]  # This is all the information after the barcode minus the new line notation.
+        product_information = line[10:-1]  # This is all the information after the barcode minus the new line notation.
 
         information_dictionary[barcode_number] = product_information
 
