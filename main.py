@@ -10,7 +10,6 @@ This main.py file is going to have all the central code for the app.
 """
 
 
-
 def separate_information_into_dictionary(file_name):
     """
     Take a file and turn it into a variable that the program can use.
