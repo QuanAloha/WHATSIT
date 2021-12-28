@@ -1,0 +1,4 @@
+1234567891 Name:Honey-nut Cheerios Calories:180
+1234567892 Name:Captain_Crunch Calories:108
+1234567893 Name:Cinnamon Toast Crunch Calories:220
+1234567894 Name:Quaker Life Calories:160
