@@ -9,6 +9,8 @@ place for people to input information.
 This main.py file is going to have all the central code for the app.
 """
 
+import information_input
+
 
 def separate_information_into_dictionary(file_name):
     """
